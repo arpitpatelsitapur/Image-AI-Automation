@@ -13,23 +13,24 @@ A unified Python-based toolkit that integrates Computer Vision and Natural Langu
 ```
 Image-AI-Automation/
 │
-├── task1_rgb_thermal_overlay/
-│   ├── overlay_images.py
+├── task1/
+│   ├── task1_code.py
+│   ├── input-images/
+│   └── output-images/
+│
+├── task2/
+│   ├── task2_code.py
+│   ├── input-images/
+│   └── output-images/
+│
+├── task3/
+│   ├── task1_code.py
 │   ├── input/
 │   └── output/
-│
-├── task2_change_detection/
-│   ├── detect_changes.py
-│   ├── input/
-│   └── output/
-│
-├── task3_glr_streamlit_app/
-│   ├── app.py
-│   ├── templates/
-│   ├── reports/
-│   └── outputs/
 │
 ├── sample-output/
+│   ├── task3_streamlit_app.png
+├── task.png
 │
 ├── requirements.txt
 └── README.md
@@ -57,7 +58,7 @@ Image-AI-Automation/
 ---
 
 ### **Task 3 – GLR Pipeline with Streamlit**
-
+  <div align="center"> <img src="sample-output/task3_streamlit_app.png" alt="Task3 : Streamlit app" width="800"/> </div>
 - **Objective**: Automate .docx insurance form filling based on photo reports (.pdf).
 - **Tech Stack**: Streamlit + OCR + LLM (OpenRouter or DeepSeek)
 - **Output**: Auto-filled insurance document.
