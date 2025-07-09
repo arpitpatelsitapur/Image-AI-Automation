@@ -290,7 +290,7 @@ def main():
         api_key = st.text_input(
             "OpenRouter API Key",
             type="password",
-            value="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",
+            value="YOUR-OPEN-ROUTER-API-KEY",
             help="Enter your OpenRouter API key. Leave empty to use demo mode."
         )
         
