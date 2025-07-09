@@ -2,6 +2,7 @@
   <div align="center">
      <img src="task.png" alt="One of the task" width="850"/>
   </div>
+  
 A unified Python-based toolkit that integrates Computer Vision and Natural Language Processing to automate three real-world tasks: 
 - RGB-Thermal image alignment
 - Visual change detection
@@ -59,6 +60,7 @@ Image-AI-Automation/
 
 ### **Task 3 – GLR Pipeline with Streamlit**
   <div align="center"> <img src="sample-output/task3_streamlit_app.png" alt="Task3 : Streamlit app" width="800"/> </div>
+  
 - **Objective**: Automate .docx insurance form filling based on photo reports (.pdf).
 - **Tech Stack**: Streamlit + OCR + LLM (OpenRouter or DeepSeek)
 - **Output**: Auto-filled insurance document.
