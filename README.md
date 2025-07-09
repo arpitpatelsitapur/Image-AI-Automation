@@ -1,9 +1,13 @@
 # **Image-AI-Automation**
-
+  <div align="center">
+     <img src="task.png" alt="One of the task" width="850"/>
+  </div>
 A unified Python-based toolkit that integrates Computer Vision and Natural Language Processing to automate three real-world tasks: 
 - RGB-Thermal image alignment
 - Visual change detection
 - Document template filling using LLMs
+
+*(These tasks were actually my assignments.)*
 
 ## **Repository Structure**
 ```
